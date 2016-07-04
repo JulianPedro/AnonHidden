@@ -2,6 +2,8 @@
 
 Redirect all traffic from the :computer: to the Tor network. :sunglasses:
 
+![alt tag](https://s31.postimg.org/quszvj5qz/anonhidden.png)
+
 Iptables rules handles the traffic, so forwarding to nodes of the TOR network.
 AnonHidden was developed in python3, runs on any Linux version has been developed for people who want to maintain their connection with the anonymous way of internet.
 
@@ -30,6 +32,8 @@ $ sudo python3 AnonHidden.py
 $ sudo python3 AnonHidden.py --install
 $ sudo python3 AnonHidden.py --start
 ```
+
+![alt tag](https://s32.postimg.org/5hyulz2xx/anon.png)
 
 ### Tested
 
