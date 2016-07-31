@@ -56,3 +56,8 @@ MIT
 
 
 **Free Software, Yeah!**
+----
+Tutorial in Portuguese : https://1337exploit.wordpress.com/2016/07/31/anonhidden-script-para-anonimato/
+
+Demonstration Video : https://youtu.be/CSUnGUSLpVU
+
