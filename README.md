@@ -8,7 +8,7 @@ Iptables rules handles the traffic, so forwarding to nodes of the TOR network.
 AnonHidden was developed in python3, runs on any Linux version has been developed for people who want to maintain their connection with the anonymous way of internet.
 
 ### Version
-1.0.0
+2.0.0
 
 ### Tech
 
@@ -33,7 +33,7 @@ $ sudo python3 AnonHidden.py --install
 $ sudo python3 AnonHidden.py --start
 ```
 
-![alt tag](https://s32.postimg.org/5hyulz2xx/anon.png)
+![alt tag](https://s31.postimg.org/bviw3mzrv/Captura_de_tela_de_2016_08_03_17_11_00.png)
 
 ### Tested
 
