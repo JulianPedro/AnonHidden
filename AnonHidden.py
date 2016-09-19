@@ -210,11 +210,12 @@ def start():
    print""+colorr+"==> Starting TOR"+RESET+""
    try:
        ip = load(urlopen('https://api.ipify.org/?format=json'))['ip']
+       check()
    except:
        print"" + colorr + "==> Error connecting to Tor. Trying Again" + RESET + ""
        start()
    time.sleep(8)
-   check()
+   
 
 def stop():
    os.system("/usr/bin/notify-send -i " + os.getcwd() + "/hidden.png AnonHidden Stop...")
